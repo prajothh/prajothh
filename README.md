@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajothh
-- 👀 I’m interested in fromtend developer
+- 👀 I’m interested in dull stack developer
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
